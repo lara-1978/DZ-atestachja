@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "решение задач по атестации/1.0.0": {
+        "runtime": {
+          "решение задач по атестации.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "решение задач по атестации/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
